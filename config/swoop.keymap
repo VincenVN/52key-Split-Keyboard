@@ -122,7 +122,7 @@
             bindings = <
 &kp MINUS         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6     &kp N7         &kp NUMBER_8  &kp NUMBER_9   &kp NUMBER_0  &kp EQUAL
 &kp LEFT_CONTROL  &none         &none         &none         &none         &none         &none            &kp NUMBER_4   &kp NUMBER_5  &kp NUMBER_6   &kp NUMBER_0  &none
-&kp CAPSLOCK      &none         &none         &none         &none         &none         &none            &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3   &none         &none
+&kp LEFT_SHIFT    &none         &none         &none         &none         &none         &none            &kp NUMBER_1   &kp NUMBER_2  &kp NUMBER_3   &none         &none
                                 &none         &none         &kp TAB       &kp SPACE     &kp RIGHT_SHIFT  &kp BACKSPACE  &none         &none
                                 &kp CAPSLOCK  &none         &kp ESCAPE    &to 0         &to 2            &kp ENTER      &none         &kp RIGHT_GUI
             >;
